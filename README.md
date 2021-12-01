@@ -6,4 +6,3 @@ Para ello vamos a utilizar un dataset obtenido de  datamarket.es, que contiene b
 •	Frecuencia de actualización: actualizado cada 4h
 •	Volumen estimado: 15.000 registros diarios
 •	Histórico: desde 2018 en adelante
-![image](https://user-images.githubusercontent.com/91668640/144264378-85974264-9026-4d9a-be21-f6764c31c3df.png)
